@@ -1,6 +1,7 @@
 *.log
 .vscode
 .DS_Store
+_theme_files
 .env
 .env.backup
 .env.production
